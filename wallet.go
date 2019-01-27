@@ -1,5 +1,5 @@
 /*******************************************************
- * By: TouchPoint Cloud
+ * By: Matt146
  * Date (of last edit): 12/26/18
  * Version: v0.0.1
  * Objective: Wallet Library
@@ -21,13 +21,6 @@ import (
 	"strings"
 	"time"
 )
-
-// TODO: I do not need to generate a random string
-// as a delimiter for the keys. The keys are stored as base-10 integers
-
-// @TODO: Make checks in order to prevent people from double spending in transactions.
-// (REALLY JUST CHECK ENTIRE BLOCKCHAIN TO ADD UP THE SUM OF THE MONEY FOR ONE
-// PERSON
 
 const (
 	W1DELIMITER           = "`"
