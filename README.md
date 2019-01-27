@@ -1,2 +1,2 @@
 # go-blockchain
-A simple blockchain framework/librarywallet
+A simple blockchain in GoLang
