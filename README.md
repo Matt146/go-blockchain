@@ -1,2 +1,2 @@
-# go-wallet
-A simple ecdsa wallet library
+# go-blockchain
+A simple ecdsa blockchain framework/librarywallet
